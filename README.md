@@ -30,15 +30,25 @@
 AutoIntelX/
 │
 ├── config.ini # Stores API keys and user settings
+
 ├── config_manager.py # Handles config parsing
+
 ├── corelationsupdate.py # Correlation engine logic
+
 ├── domainlookupupdate.py # Domain intelligence gathering
+
 ├── emaillookupupdate.py # Email breach check and metadata
+
 ├── geolocationupdate.py # IP-based geolocation
+
 ├── requirements.txt # Dependencies
+
 ├── socialmediaupdate.py # Social media OSINT
+
 ├── toolui_oneoption.py # Streamlit UI interface
+
 ├── usernamelookup.py # Multi-platform username search
+
 ├── webscrapperupdate.py # Web scraping automation
 
 
