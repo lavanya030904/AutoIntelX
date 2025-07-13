@@ -57,9 +57,9 @@ AutoIntelX/
 ## 🔧 Installation
 
 1. **Clone the repository**
-'''bash
+<pre> '''bash
 git clone https://github.com/lavanya030904/AutoIntelX.git
-cd AutoIntelX'''
+cd AutoIntelX''' </pre>
 
 ## 🙌 Acknowledgements
 - Streamlit
