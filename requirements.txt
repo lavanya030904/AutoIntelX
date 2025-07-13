@@ -1,0 +1,17 @@
+requests
+bs4
+selenium
+praw
+tweepy
+instaloader
+dnspython[doh,dnssec,idna,trio,wmi,doq]
+shodan
+aiohttp
+networkx
+numpy
+scikit-learn
+matplotlib
+nltk
+openai
+configparser
+whois
