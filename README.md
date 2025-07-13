@@ -54,12 +54,27 @@ AutoIntelX/
 
 ---
 
-## 🔧 Installation
+## Installation
 
 1. **Clone the repository**
-<pre> '''bash
+<pre>
 git clone https://github.com/lavanya030904/AutoIntelX.git
-cd AutoIntelX''' </pre>
+cd AutoIntelX</pre>
+
+## Install dependencies
+<pre> 
+pip install -r requirements.txt</pre>
+
+## Configure your API keys
+- Open config.ini and insert your API credentials as needed.
+- use the configure API keys button to configure the API keys using the frontend
+
+## Run the App
+<pre> 
+streamlit run toolui_oneoption.py</pre>
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit pull requests.
 
 ## 🙌 Acknowledgements
 - Streamlit
