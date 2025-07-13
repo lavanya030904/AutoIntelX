@@ -61,3 +61,10 @@ AutoIntelX/
 git clone https://github.com/lavanya030904/AutoIntelX.git
 cd AutoIntelX'''
 
+## 🙌 Acknowledgements
+- Streamlit
+- Python
+- OSINT community and tools that inspire ethical investigation work
+
+⚠️ This tool is built for educational and ethical research purposes only. Please respect privacy and follow all applicable laws when using AutoIntelX.
+
